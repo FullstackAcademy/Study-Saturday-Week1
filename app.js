@@ -11,6 +11,11 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(morgan('dev'));
 
+app.use('/student', require('./route/student'));
+
+// app.get('/', (req, res) => {
+//   res.json('hello')
+// })
 // Listen on server
 
 app.listen(3000, () => {
