@@ -1,5 +1,7 @@
 # Study-Saturday-Week1
 
+## Lecture Slides: [Study-Saturday-Week-1](https://docs.google.com/presentation/d/1g8feDiDyRCKIFKT55xw5OQ88xCb5JSXCUIwJmx5Gy_E/edit?usp=sharing)
+
 ## Objective: Build 2 sets of CRUD routes for 2 models, Students and Tests
 
 ### Details
